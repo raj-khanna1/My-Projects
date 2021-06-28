@@ -1,11 +1,5 @@
 const pup = require("puppeteer");
 
-// const username = "Nevakihaha";
-// const pass = "Hahahoho12";
-// const username = "nhiroshima31";
-// const pass = "Hahahoho12";
-const username = "abbabaab789";
-const pass = "Hahahoho12";
 
 async function login(tab)
 {
